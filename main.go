@@ -12,7 +12,7 @@ const pageTemplate = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>This is First My  Go Web Page</title>
+    <title>Go Web Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -48,7 +48,7 @@ const pageTemplate = `
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My Beautiful Web Page</h1>
+        <h1>Welcome to My First Web Page</h1>
         <p>This page is served by a Go application!</p>
         <p><a href="https://golang.org">Learn more about Go</a></p>
     </div>
